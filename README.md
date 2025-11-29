@@ -214,3 +214,17 @@ print(int(total_energy))
 s = "1Az3Sx4Dc6Fv7Gb9Hn2Pw3Tf5Et6Qn8Qy9Wu0Hm"
 print(s[::3][::-1])
 ```
+
+```
+length = 5.2
+width = 1.8
+height = 1.4
+box = 0.5
+
+count_l = int(length / box)
+count_w = int(width / box)
+count_h = int(height / box)
+
+total = count_l * count_w * count_h
+print(total)
+```
