@@ -1,5 +1,5 @@
 11:
-t1 = "╔═╤╗"
+<code>t1 = "╔═╤╗"
 t2 = "║│"
 t3 = "╟─┼╢"
 t4 = "╚═╧╝"
@@ -32,7 +32,7 @@ row_block = (s2 + "\n") * H
 full_table = top_row + "\n" + (row_block + s3 + "\n") * (ROWS - 1) + row_block + s4
 
 print(full_table)
-
+</code>
 12:
 h = float(input())
 w = float(input())
