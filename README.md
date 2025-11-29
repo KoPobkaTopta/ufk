@@ -186,3 +186,26 @@ print(line)
 print(f"| {'ИТОГО:':<59} | {grand_total:>13.2f} |")
 print(line)
 ```
+
+```
+import math
+
+height = 100
+gravity = 9.8
+energy_per_bounce = 10
+hours = 2
+
+seconds_total = hours * 3600
+time_fall = math.sqrt(2 * height / gravity)
+time_cycle = time_fall * 2
+
+bounces = 0
+current_time = time_fall
+
+while current_time <= seconds_total:
+    bounces += 1
+    current_time += time_cycle
+
+total_energy = bounces * energy_per_bounce
+print(total_energy)
+```
