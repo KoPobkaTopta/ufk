@@ -250,3 +250,27 @@ count = remaining // bar_kcal
 
 print(count)
 ```
+```
+# Размеры кузова в см (4.5 м и 1.8 м)
+car_length = 450
+car_width = 180
+
+# Размеры холодильника в см (основание)
+fridge_size = 85
+
+# Считаем, сколько влезает по длине и ширине
+in_length = car_length // fridge_size
+in_width = car_width // fridge_size
+
+# Общая вместимость машины за 1 раз
+capacity = in_length * in_width
+
+# Всего нужно перевезти
+total_fridges = 24
+
+# Считаем количество поездок с ПОЛНОЙ загрузкой
+# Используем целочисленное деление //
+full_trips = total_fridges // capacity
+
+print(full_trips)
+```
