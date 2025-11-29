@@ -1,5 +1,6 @@
-11:
-<code>t1 = "╔═╤╗"
+11: 
+```
+t1 = "╔═╤╗"
 t2 = "║│"
 t3 = "╟─┼╢"
 t4 = "╚═╧╝"
@@ -32,8 +33,9 @@ row_block = (s2 + "\n") * H
 full_table = top_row + "\n" + (row_block + s3 + "\n") * (ROWS - 1) + row_block + s4
 
 print(full_table)
-</code>
+```
 12:
+```
 h = float(input())
 w = float(input())
 
@@ -41,8 +43,9 @@ a = h / w
 b = w / h
 
 print(f"|{a}|{b}|")
-
+```
 13:
+```
 h = float(input())
 w = float(input())
 
@@ -50,8 +53,9 @@ a = h / w
 b = w / h
 
 print(f"|{a:.4f}|{b:.4f}|")
-
+```
 14:
+```
 h = float(input())
 w = float(input())
 
@@ -59,8 +63,9 @@ a = h / w
 b = w / h
 
 print(f"|{a:20.2f}|{b:20.2f}|")
-
+```
 15:
+```
 h = float(input())
 w = float(input())
 
@@ -68,14 +73,16 @@ a = h / w
 b = w / h
 
 print(f"|{a:^20.2f}|{b:^20.2f}|")
-
+```
 16:
+```
 h = float(input())
 w = float(input())
 
 print(f"|{h / w:^20.2f}|{w / h:^20.2f}|")
-
+```
 17:
+```
 s = input()
 
 if s[0] == '-':
@@ -93,53 +100,65 @@ print(d1, d2, d3, d4, d5, d6)
 
 total = d1 + d2 + d3 + d4 + d5 + d6
 print("Сумма цифр:", total)
-
+```
 Домашняя работа:
 1:
+```
 s = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 print(s[0])
-
+```
 2:
+```
 s = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 print(s[1])
-
+```
 3:
+```
 s = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 print(s[-2])
-
+```
 4:
+```
 s = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 print(s[-1])
-
+```
 5:
+```
 s = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 print(s[9:20])
-
+```
 6:
+```
 s = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 print(s[19:])
-
+```
 7:
+```
 s = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 print(s[:10])
-
+```
 8:
+```
 s = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 print(s[::2])
-
+```
 9:
+```
 s = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 print(s[1::2])
-
+```
 10:
+```
 s = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 print(s[1::3])
-
+```
 11:
+```
 s = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 print(s[::-1])
-
+```
 12:
+```
 names = ["Картофель", "Морковь", "Лук", "Капуста", "Свекла"]
 amounts = [2.341, 0.873, 0.473, 3.762, 1.036]
 prices = [79.36, 56.20, 39.01, 66.06, 72.99]
@@ -166,3 +185,4 @@ print(line)
 
 print(f"| {'ИТОГО:':<59} | {grand_total:>13.2f} |")
 print(line)
+```
