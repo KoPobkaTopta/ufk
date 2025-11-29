@@ -228,3 +228,25 @@ count_h = int(height / box)
 total = count_l * count_w * count_h
 print(total)
 ```
+```
+# Состав батончика
+protein = 24
+fat = 6
+carbs = 42
+
+# Считаем калории в одном батончике
+# Белки и углеводы = 4 ккал, жиры = 9 ккал
+bar_kcal = (protein * 4) + (fat * 9) + (carbs * 4)
+
+# Лимиты
+limit = 2500
+eaten = 1670
+
+# Сколько осталось свободного места
+remaining = limit - eaten
+
+# Считаем количество целых батончиков (целочисленное деление)
+count = remaining // bar_kcal
+
+print(count)
+```
