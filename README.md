@@ -210,3 +210,7 @@ while current_time + time_fall <= seconds_total:
 total_energy = bounces * energy_per_bounce
 print(int(total_energy))
 ```
+```
+s = "1Az3Sx4Dc6Fv7Gb9Hn2Pw3Tf5Et6Qn8Qy9Wu0Hm"
+print(s[::3][::-1])
+```
