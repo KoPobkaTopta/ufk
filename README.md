@@ -202,10 +202,11 @@ time_cycle = time_fall * 2
 bounces = 0
 current_time = time_fall
 
-while current_time <= seconds_total:
+# Условие изменено: учитываем, что шар должен успеть подняться (time_fall)
+while current_time + time_fall <= seconds_total:
     bounces += 1
     current_time += time_cycle
 
 total_energy = bounces * energy_per_bounce
-print(total_energy)
+print(int(total_energy))
 ```
