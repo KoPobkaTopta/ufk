@@ -292,3 +292,22 @@ print()
 print("С уважением,")
 print("классный руководитель")
 ```
+```
+class Pet:
+    mypets = []
+
+    def __init__(self, name):
+        self.name = name
+        Pet.mypets.append(name)
+
+    def __str__(self):
+        return f"У меня есть питомец. Его зовут {self.name}"
+
+
+bobik = Pet("Бобик")
+barbos = Pet("Барбос")
+murchik = Pet("Мурчик")
+
+for pet in [bobik, barbos, murchik]:
+    print(pet)
+```
