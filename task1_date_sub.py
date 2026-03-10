@@ -13,7 +13,7 @@ class Date:
     def __sub__(self, other):
         d1 = dt_date(self.year, self.month, self.day)
         d2 = dt_date(other.year, other.month, other.day)
-        return abs((d1 - d2).days)
+        return (d1 - d2).days
 
 
 date1 = Date(8, 3, 2025)
