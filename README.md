@@ -292,3 +292,56 @@ print()
 print("С уважением,")
 print("классный руководитель")
 ```
+
+get_words:
+```
+from string import punctuation
+
+
+def get_words(s):
+    for p in punctuation:
+        s = s.replace(p, " ")
+    return sorted(word.upper() for word in s.split())
+```
+
+Альтернативные варианты решения:
+
+1) через `str.translate` (самый быстрый и "питоничный"):
+```
+from string import punctuation
+
+
+def get_words(s):
+    cleaned = s.translate(str.maketrans(punctuation, " " * len(punctuation)))
+    return sorted(word.upper() for word in cleaned.split())
+```
+
+2) через генератор списков с ручной очисткой символов:
+```
+from string import punctuation
+
+
+def get_words(s):
+    cleaned = "".join(ch if ch not in punctuation else " " for ch in s)
+    return sorted(cleaned.upper().split())
+```
+
+3) через регулярное выражение (режет строку по пунктуации и пробелам):
+```
+import re
+from string import punctuation
+
+
+def get_words(s):
+    pattern = f"[{re.escape(punctuation)}\\s]+"
+    return sorted(w.upper() for w in re.split(pattern, s) if w)
+```
+
+Ключевые идеи во всех вариантах:
+- заменяем каждый знак пунктуации из `string.punctuation` на пробел,
+  чтобы склеенные пунктуацией слова (например, `Hi-there`) корректно распадались на `HI` и `THERE`;
+- `str.split()` без аргументов сам отбрасывает любые пустые фрагменты и режет по любым whitespace-символам
+  (пробелы, табы, переводы строк), поэтому пустая строка и "белые места" словами не считаются;
+- `.upper()` приводит каждое слово к верхнему регистру;
+- `sorted(...)` возвращает новый список слов, отсортированный по алфавиту.
+```
