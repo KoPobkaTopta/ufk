@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600mm" height="900mm" viewBox="0 0 600 900" shape-rendering="geometricPrecision">
+<defs><pattern id="wood" width="1.1" height="1.1" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="1.1" height="1.1" fill="#6E5C42"/><line x1="0" y1="0" x2="0" y2="1.1" stroke="#3A3227" stroke-width="0.5"/></pattern><marker id="arwC2691A" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="4.2" markerHeight="4.2" orient="auto-start-reverse" markerUnits="strokeWidth"><path d="M0.5,0.8 L9.5,5 L0.5,9.2 L2.6,5 z" fill="#C2691A"/></marker><marker id="arw1E7A44" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="4.2" markerHeight="4.2" orient="auto-start-reverse" markerUnits="strokeWidth"><path d="M0.5,0.8 L9.5,5 L0.5,9.2 L2.6,5 z" fill="#1E7A44"/></marker><marker id="arw1F5FA8" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="4.2" markerHeight="4.2" orient="auto-start-reverse" markerUnits="strokeWidth"><path d="M0.5,0.8 L9.5,5 L0.5,9.2 L2.6,5 z" fill="#1F5FA8"/></marker><marker id="arw6B7280" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="4.2" markerHeight="4.2" orient="auto-start-reverse" markerUnits="strokeWidth"><path d="M0.5,0.8 L9.5,5 L0.5,9.2 L2.6,5 z" fill="#6B7280"/></marker><marker id="arwC2410C" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="4.2" markerHeight="4.2" orient="auto-start-reverse" markerUnits="strokeWidth"><path d="M0.5,0.8 L9.5,5 L0.5,9.2 L2.6,5 z" fill="#C2410C"/></marker></defs>
+<rect x="0" y="0" width="600" height="900" fill="#FFFFFF"/>
+<rect x="0" y="0" width="600" height="900" fill="none" stroke="#16202B" stroke-width="2"/>
+<rect x="12" y="12" width="576" height="64" fill="#16202B"/>
+<rect x="12" y="12" width="4" height="64" fill="#B3261E"/>
+<text x="24" y="42" fill="#FFFFFF" font-size="19" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start" letter-spacing="1.6">ШТУРМ СТРОЕНИЯ</text>
+<text x="24" y="54" fill="#E8C87A" font-size="5.4" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">Учебный тактический дом (деревянный сруб): три входа, «змейка» и сквозной коридор</text>
+<text x="24" y="62.5" fill="#C9D2DC" font-size="4.2" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Поэтапный порядок действий штурмовой группы · секторы огня и наблюдения · поле видимости</text>
+<text x="24" y="71" fill="#93A2B1" font-size="3.4" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="italic" text-anchor="start">УЧЕБНЫЙ ПЛАКАТ · для занятий по тактической подготовке на полигоне</text>
+<text x="580" y="71" fill="#93A2B1" font-size="3.4" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="italic" text-anchor="end">Формат 60 × 90 см</text>
+<rect x="12" y="80" width="360" height="66" fill="#F2F0EA" stroke="#16202B" stroke-width="0.7"/>
+<rect x="12" y="80" width="360" height="8.5" fill="#16202B"/>
+<text x="15" y="86.035" fill="#FFFFFF" font-size="4.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">ОБСТАНОВКА, ЗАДАЧА И РАСПРЕДЕЛЕНИЕ ПО ВХОДАМ</text>
+<text x="16" y="94.7" fill="#B3261E" font-size="3.4" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">ОБСТАНОВКА</text>
+<text x="46" y="94.7" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Отдельно стоящее деревянное строение 18 × 14 м, один этаж, три входа в фасаде.</text>
+<text x="46" y="99.3" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">За каждым входом — тамбур; вправо уходит «змейка» из 5 колен, левее — сквозной коридор до тыльной стены.</text>
+<text x="16" y="104.9" fill="#B3261E" font-size="3.4" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">ЗАДАЧА</text>
+<text x="46" y="104.9" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Скрытно выдвинуться на рубеж перехода в атаку, ослепить фасад дымами, ворваться в строение через входы</text>
+<text x="46" y="109.5" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">№ 1 и № 3, последовательно зачистить объёмы, соединиться в глубине и закрепиться на объекте.</text>
+<text x="16" y="116.1" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">ВХОД № 1 (левый) — ШГ-1 (3 стрелка): основная ось «змейка», контроль коридора с рубежа тамбура.</text>
+<text x="16" y="120.7" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">ВХОД № 3 (правый) — ШГ-2 (3 стрелка): зеркально, одновременно с ШГ-1 по единому сигналу.</text>
+<text x="16" y="125.3" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">ВХОД № 2 (центральный) — ось огня группы поддержки; вход обеспечения. Личный состав в него</text>
+<text x="16" y="129.9" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">     не врывается: через него после доклада «Фасад чисто» входит пара поддержки для закрепления.</text>
+<text x="16" y="134.5" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Три входа одновременно тройками не штурмуются: сил 8 чел., третья ось остаётся под огнём и наблюдением.</text>
+<rect x="378" y="80" width="210" height="66" fill="#F2F0EA" stroke="#16202B" stroke-width="0.7"/>
+<rect x="378" y="80" width="210" height="8.5" fill="#16202B"/>
+<text x="381" y="86.035" fill="#FFFFFF" font-size="4.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">БОЕВОЙ РАСЧЁТ И ВООРУЖЕНИЕ (8 чел.)</text>
+<rect x="380" y="90.5" width="206" height="5.6" fill="#2E3D4F"/>
+<text x="382" y="94.5" fill="#FFFFFF" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">№</text>
+<text x="396" y="94.5" fill="#FFFFFF" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">Кто</text>
+<text x="440" y="94.5" fill="#FFFFFF" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">Вооружение / имущество</text>
+<text x="496" y="94.5" fill="#FFFFFF" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">Задача</text>
+<rect x="380.5" y="97.3" width="12" height="5" rx="1" fill="#1E7A44"/>
+<text x="386.5" y="100.9" fill="#FFFFFF" font-size="3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">1-1</text>
+<text x="396" y="100.9" fill="#16202B" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">ШГ-1 · головной</text>
+<text x="440" y="100.9" fill="#16202B" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">АК, магазин 30 патр., ДШ</text>
+<text x="496" y="100.9" fill="#6B7280" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">вход № 1, дальний угол</text>
+<rect x="380.5" y="102.3" width="12" height="5" rx="1" fill="#1E7A44"/>
+<text x="386.5" y="105.9" fill="#FFFFFF" font-size="3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">1-2</text>
+<text x="396" y="105.9" fill="#16202B" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">ШГ-1 · второй</text>
+<text x="440" y="105.9" fill="#16202B" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">АК, магазин 30 патр., ДШ</text>
+<text x="496" y="105.9" fill="#6B7280" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">противоположный сектор</text>
+<rect x="380.5" y="107.3" width="12" height="5" rx="1" fill="#1E7A44"/>
+<text x="386.5" y="110.9" fill="#FFFFFF" font-size="3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">1-3</text>
+<text x="396" y="110.9" fill="#16202B" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">ШГ-1 · замыкающий</text>
+<text x="440" y="110.9" fill="#16202B" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">АК, магазин 30 патр., ДШ</text>
+<text x="496" y="110.9" fill="#6B7280" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">тыл, горловина коридора</text>
+<rect x="380.5" y="112.3" width="12" height="5" rx="1" fill="#1E7A44"/>
+<text x="386.5" y="115.9" fill="#FFFFFF" font-size="3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">2-1</text>
+<text x="396" y="115.9" fill="#16202B" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">ШГ-2 · головной</text>
+<text x="440" y="115.9" fill="#16202B" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">АК, магазин 30 патр., ДШ</text>
+<text x="496" y="115.9" fill="#6B7280" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">вход № 3, дальний угол</text>
+<rect x="380.5" y="117.3" width="12" height="5" rx="1" fill="#1E7A44"/>
+<text x="386.5" y="120.9" fill="#FFFFFF" font-size="3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">2-2</text>
+<text x="396" y="120.9" fill="#16202B" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">ШГ-2 · второй</text>
+<text x="440" y="120.9" fill="#16202B" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">АК, магазин 30 патр., ДШ</text>
+<text x="496" y="120.9" fill="#6B7280" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">противоположный сектор</text>
+<rect x="380.5" y="122.3" width="12" height="5" rx="1" fill="#1E7A44"/>
+<text x="386.5" y="125.9" fill="#FFFFFF" font-size="3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">2-3</text>
+<text x="396" y="125.9" fill="#16202B" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">ШГ-2 · замыкающий</text>
+<text x="440" y="125.9" fill="#16202B" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">АК, магазин 30 патр., ДШ</text>
+<text x="496" y="125.9" fill="#6B7280" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">тыл, горловина коридора</text>
+<rect x="380.5" y="127.3" width="12" height="5" rx="1" fill="#1F5FA8"/>
+<text x="386.5" y="130.9" fill="#FFFFFF" font-size="3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">ПК</text>
+<text x="396" y="130.9" fill="#16202B" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Пулемётчик (правый фланг)</text>
+<text x="440" y="130.9" fill="#16202B" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">ПКМ/РПК, лента (магазины)</text>
+<text x="496" y="130.9" fill="#6B7280" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">отсечение фасада и правого крыла</text>
+<rect x="380.5" y="132.3" width="12" height="5" rx="1" fill="#C2410C"/>
+<text x="386.5" y="135.9" fill="#FFFFFF" font-size="3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">ГР</text>
+<text x="396" y="135.9" fill="#16202B" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Гранатомётчик (левый фланг)</text>
+<text x="440" y="135.9" fill="#16202B" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">РПГ-7 / ГП-25, ДШ</text>
+<text x="496" y="135.9" fill="#6B7280" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">подавление огневых точек слева</text>
+<text x="382" y="142.1" fill="#6B7280" font-size="2.9" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="italic" text-anchor="start">ДШ — дымовая шашка (РДГ-2Б / РДГ-П), по одной на человека.</text>
+<text x="382" y="146.1" fill="#6B7280" font-size="2.9" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="italic" text-anchor="start">Старший — командир ШГ-1. Запасной способ управления — голос и жест.</text>
+<rect x="12" y="150" width="378" height="358" fill="#FFFFFF" stroke="#16202B" stroke-width="0.7"/>
+<rect x="12" y="150" width="378" height="9" fill="#16202B"/>
+<text x="15" y="156.39" fill="#FFFFFF" font-size="4.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">СХЕМА ОБЪЕКТА И ПОРЯДОК ДЕЙСТВИЙ  ·  масштаб 1:66,7  (1 м = 15 мм)</text>
+<rect x="13.5" y="160.5" width="375" height="346" fill="#EDE7D9"/>
+<rect x="54" y="170" width="270" height="210" fill="#FFFFFF"/>
+<polygon points="63,479 61.5,380 196.5,380" fill="#F6DDBC" opacity="0.55"/>
+<line x1="63" y1="479" x2="61.5" y2="380" stroke="#C2691A" stroke-width="0.5" stroke-dasharray="2,2" stroke-linecap="butt"/>
+<line x1="63" y1="479" x2="196.5" y2="380" stroke="#C2691A" stroke-width="0.5" stroke-dasharray="2,2" stroke-linecap="butt"/>
+<polygon points="312,479 181.5,380 316.5,380" fill="#F6DDBC" opacity="0.55"/>
+<line x1="312" y1="479" x2="181.5" y2="380" stroke="#C2691A" stroke-width="0.5" stroke-dasharray="2,2" stroke-linecap="butt"/>
+<line x1="312" y1="479" x2="316.5" y2="380" stroke="#C2691A" stroke-width="0.5" stroke-dasharray="2,2" stroke-linecap="butt"/>
+<circle cx="67.5" cy="455" r="8" fill="#C6CBD2" opacity="0.85"/>
+<circle cx="73.5" cy="444.5" r="5.5" fill="#C6CBD2" opacity="0.7"/>
+<circle cx="91.8" cy="455" r="8" fill="#C6CBD2" opacity="0.85"/>
+<circle cx="97.8" cy="444.5" r="5.5" fill="#C6CBD2" opacity="0.7"/>
+<circle cx="116.1" cy="455" r="8" fill="#C6CBD2" opacity="0.85"/>
+<circle cx="122.1" cy="444.5" r="5.5" fill="#C6CBD2" opacity="0.7"/>
+<circle cx="140.4" cy="455" r="8" fill="#C6CBD2" opacity="0.85"/>
+<circle cx="146.4" cy="444.5" r="5.5" fill="#C6CBD2" opacity="0.7"/>
+<circle cx="164.7" cy="455" r="8" fill="#C6CBD2" opacity="0.85"/>
+<circle cx="170.7" cy="444.5" r="5.5" fill="#C6CBD2" opacity="0.7"/>
+<circle cx="189" cy="455" r="8" fill="#C6CBD2" opacity="0.85"/>
+<circle cx="195" cy="444.5" r="5.5" fill="#C6CBD2" opacity="0.7"/>
+<circle cx="213.3" cy="455" r="8" fill="#C6CBD2" opacity="0.85"/>
+<circle cx="219.3" cy="444.5" r="5.5" fill="#C6CBD2" opacity="0.7"/>
+<circle cx="237.6" cy="455" r="8" fill="#C6CBD2" opacity="0.85"/>
+<circle cx="243.6" cy="444.5" r="5.5" fill="#C6CBD2" opacity="0.7"/>
+<circle cx="261.9" cy="455" r="8" fill="#C6CBD2" opacity="0.85"/>
+<circle cx="267.9" cy="444.5" r="5.5" fill="#C6CBD2" opacity="0.7"/>
+<circle cx="286.2" cy="455" r="8" fill="#C6CBD2" opacity="0.85"/>
+<circle cx="292.2" cy="444.5" r="5.5" fill="#C6CBD2" opacity="0.7"/>
+<circle cx="310.5" cy="455" r="8" fill="#C6CBD2" opacity="0.85"/>
+<circle cx="316.5" cy="444.5" r="5.5" fill="#C6CBD2" opacity="0.7"/>
+<text x="189" y="456.6" fill="#3E4B58" font-size="3.6" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">Д Ы М О В А Я   З А В Е С А</text>
+<line x1="39" y1="470" x2="339" y2="470" stroke="#B3261E" stroke-width="0.8" stroke-dasharray="5,3" stroke-linecap="butt"/>
+<text x="189" y="467.8" fill="#B3261E" font-size="3.5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">РУБЕЖ ПЕРЕХОДА В АТАКУ  30–50 м</text>
+<rect x="54" y="376.25" width="11.25" height="3.75" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="80.25" y="376.25" width="18.75" height="3.75" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="114" y="376.25" width="11.25" height="3.75" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="140.25" y="376.25" width="15" height="3.75" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="170.25" y="376.25" width="18.75" height="3.75" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="204" y="376.25" width="11.25" height="3.75" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="230.25" y="376.25" width="15" height="3.75" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="260.25" y="376.25" width="18.75" height="3.75" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="294" y="376.25" width="11.25" height="3.75" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="320.25" y="376.25" width="3.75" height="3.75" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="54" y="170" width="11.25" height="3.75" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="80.25" y="170" width="37.5" height="3.75" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="132.75" y="170" width="22.5" height="3.75" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="170.25" y="170" width="37.5" height="3.75" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="222.75" y="170" width="22.5" height="3.75" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="260.25" y="170" width="37.5" height="3.75" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="312.75" y="170" width="11.25" height="3.75" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="54" y="335" width="3.75" height="45" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="54" y="260" width="3.75" height="60" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="54" y="200" width="3.75" height="45" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="54" y="170" width="3.75" height="15" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="320.25" y="335" width="3.75" height="45" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="320.25" y="260" width="3.75" height="60" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="320.25" y="200" width="3.75" height="45" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="320.25" y="170" width="3.75" height="15" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="140.25" y="170" width="3.75" height="210" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="230.25" y="170" width="3.75" height="210" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="91.5" y="297.5" width="3.75" height="52.5" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="91.5" y="222.5" width="3.75" height="63.75" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="91.5" y="173.75" width="3.75" height="37.5" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="114" y="308.75" width="26.25" height="3.75" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="91.5" y="271.25" width="30" height="3.75" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="114" y="233.75" width="26.25" height="3.75" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="91.5" y="196.25" width="30" height="3.75" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="181.5" y="297.5" width="3.75" height="52.5" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="181.5" y="222.5" width="3.75" height="63.75" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="181.5" y="173.75" width="3.75" height="37.5" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="204" y="308.75" width="26.25" height="3.75" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="181.5" y="271.25" width="30" height="3.75" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="204" y="233.75" width="26.25" height="3.75" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="181.5" y="196.25" width="30" height="3.75" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="271.5" y="297.5" width="3.75" height="52.5" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="271.5" y="222.5" width="3.75" height="63.75" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="271.5" y="173.75" width="3.75" height="37.5" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="294" y="308.75" width="26.25" height="3.75" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="271.5" y="271.25" width="30" height="3.75" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="294" y="233.75" width="26.25" height="3.75" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="271.5" y="196.25" width="30" height="3.75" fill="url(#wood)" stroke="#3A3227" stroke-width="0.25"/>
+<rect x="99" y="376.25" width="15" height="3.75" fill="#FFFFFF" stroke="#C2410C" stroke-width="0.6"/>
+<line x1="99" y1="378.125" x2="114" y2="378.125" stroke="#C2410C" stroke-width="1.4" stroke-linecap="butt"/>
+<rect x="189" y="376.25" width="15" height="3.75" fill="#FFFFFF" stroke="#C2410C" stroke-width="0.6"/>
+<line x1="189" y1="378.125" x2="204" y2="378.125" stroke="#C2410C" stroke-width="1.4" stroke-linecap="butt"/>
+<rect x="279" y="376.25" width="15" height="3.75" fill="#FFFFFF" stroke="#C2410C" stroke-width="0.6"/>
+<line x1="279" y1="378.125" x2="294" y2="378.125" stroke="#C2410C" stroke-width="1.4" stroke-linecap="butt"/>
+<rect x="65.25" y="170" width="15" height="3.75" fill="#FFFFFF" stroke="#C2410C" stroke-width="0.6"/>
+<line x1="65.25" y1="171.875" x2="80.25" y2="171.875" stroke="#C2410C" stroke-width="1.4" stroke-linecap="butt"/>
+<rect x="155.25" y="170" width="15" height="3.75" fill="#FFFFFF" stroke="#C2410C" stroke-width="0.6"/>
+<line x1="155.25" y1="171.875" x2="170.25" y2="171.875" stroke="#C2410C" stroke-width="1.4" stroke-linecap="butt"/>
+<rect x="245.25" y="170" width="15" height="3.75" fill="#FFFFFF" stroke="#C2410C" stroke-width="0.6"/>
+<line x1="245.25" y1="171.875" x2="260.25" y2="171.875" stroke="#C2410C" stroke-width="1.4" stroke-linecap="butt"/>
+<rect x="65.25" y="376.25" width="15" height="3.75" fill="#FFFFFF" stroke="#0E7490" stroke-width="0.5"/>
+<line x1="65.25" y1="378.125" x2="80.25" y2="378.125" stroke="#0E7490" stroke-width="0.5" stroke-linecap="butt"/>
+<rect x="125.25" y="376.25" width="15" height="3.75" fill="#FFFFFF" stroke="#0E7490" stroke-width="0.5"/>
+<line x1="125.25" y1="378.125" x2="140.25" y2="378.125" stroke="#0E7490" stroke-width="0.5" stroke-linecap="butt"/>
+<rect x="155.25" y="376.25" width="15" height="3.75" fill="#FFFFFF" stroke="#0E7490" stroke-width="0.5"/>
+<line x1="155.25" y1="378.125" x2="170.25" y2="378.125" stroke="#0E7490" stroke-width="0.5" stroke-linecap="butt"/>
+<rect x="215.25" y="376.25" width="15" height="3.75" fill="#FFFFFF" stroke="#0E7490" stroke-width="0.5"/>
+<line x1="215.25" y1="378.125" x2="230.25" y2="378.125" stroke="#0E7490" stroke-width="0.5" stroke-linecap="butt"/>
+<rect x="245.25" y="376.25" width="15" height="3.75" fill="#FFFFFF" stroke="#0E7490" stroke-width="0.5"/>
+<line x1="245.25" y1="378.125" x2="260.25" y2="378.125" stroke="#0E7490" stroke-width="0.5" stroke-linecap="butt"/>
+<rect x="305.25" y="376.25" width="15" height="3.75" fill="#FFFFFF" stroke="#0E7490" stroke-width="0.5"/>
+<line x1="305.25" y1="378.125" x2="320.25" y2="378.125" stroke="#0E7490" stroke-width="0.5" stroke-linecap="butt"/>
+<rect x="117.75" y="170" width="15" height="3.75" fill="#FFFFFF" stroke="#0E7490" stroke-width="0.5"/>
+<line x1="117.75" y1="171.875" x2="132.75" y2="171.875" stroke="#0E7490" stroke-width="0.5" stroke-linecap="butt"/>
+<rect x="207.75" y="170" width="15" height="3.75" fill="#FFFFFF" stroke="#0E7490" stroke-width="0.5"/>
+<line x1="207.75" y1="171.875" x2="222.75" y2="171.875" stroke="#0E7490" stroke-width="0.5" stroke-linecap="butt"/>
+<rect x="297.75" y="170" width="15" height="3.75" fill="#FFFFFF" stroke="#0E7490" stroke-width="0.5"/>
+<line x1="297.75" y1="171.875" x2="312.75" y2="171.875" stroke="#0E7490" stroke-width="0.5" stroke-linecap="butt"/>
+<rect x="54" y="320" width="3.75" height="15" fill="#FFFFFF" stroke="#0E7490" stroke-width="0.5"/>
+<line x1="55.875" y1="320" x2="55.875" y2="335" stroke="#0E7490" stroke-width="0.5" stroke-linecap="butt"/>
+<rect x="320.25" y="320" width="3.75" height="15" fill="#FFFFFF" stroke="#0E7490" stroke-width="0.5"/>
+<line x1="322.125" y1="320" x2="322.125" y2="335" stroke="#0E7490" stroke-width="0.5" stroke-linecap="butt"/>
+<rect x="54" y="245" width="3.75" height="15" fill="#FFFFFF" stroke="#0E7490" stroke-width="0.5"/>
+<line x1="55.875" y1="245" x2="55.875" y2="260" stroke="#0E7490" stroke-width="0.5" stroke-linecap="butt"/>
+<rect x="320.25" y="245" width="3.75" height="15" fill="#FFFFFF" stroke="#0E7490" stroke-width="0.5"/>
+<line x1="322.125" y1="245" x2="322.125" y2="260" stroke="#0E7490" stroke-width="0.5" stroke-linecap="butt"/>
+<rect x="54" y="185" width="3.75" height="15" fill="#FFFFFF" stroke="#0E7490" stroke-width="0.5"/>
+<line x1="55.875" y1="185" x2="55.875" y2="200" stroke="#0E7490" stroke-width="0.5" stroke-linecap="butt"/>
+<rect x="320.25" y="185" width="3.75" height="15" fill="#FFFFFF" stroke="#0E7490" stroke-width="0.5"/>
+<line x1="322.125" y1="185" x2="322.125" y2="200" stroke="#0E7490" stroke-width="0.5" stroke-linecap="butt"/>
+<rect x="91.5" y="286.25" width="3.75" height="11.25" fill="#6D28D9" opacity="0.5"/>
+<rect x="91.5" y="211.25" width="3.75" height="11.25" fill="#6D28D9" opacity="0.5"/>
+<rect x="181.5" y="286.25" width="3.75" height="11.25" fill="#6D28D9" opacity="0.5"/>
+<rect x="181.5" y="211.25" width="3.75" height="11.25" fill="#6D28D9" opacity="0.5"/>
+<rect x="271.5" y="286.25" width="3.75" height="11.25" fill="#6D28D9" opacity="0.5"/>
+<rect x="271.5" y="211.25" width="3.75" height="11.25" fill="#6D28D9" opacity="0.5"/>
+<polyline points="76.5,467 76.5,414.5" fill="none" stroke="#C2691A" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arwC2691A)"/>
+<polyline points="97.5,395.75 106.5,395.75 106.5,365 130.5,365 130.5,326 105,326 105,288.5 130.5,288.5 130.5,251 105,251 105,213.5 130.5,213.5 130.5,185" fill="none" stroke="#1E7A44" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arw1E7A44)"/>
+<polyline points="130.5,213.5 130.5,218.75 72.75,218.75" fill="none" stroke="#1F5FA8" stroke-width="1.2" stroke-dasharray="3,2" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="72.75,218.75 72.75,356" fill="none" stroke="#1F5FA8" stroke-width="1.2" stroke-dasharray="3,2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arw1F5FA8)"/>
+<polyline points="72.75,209.75 72.75,183.5" fill="none" stroke="#1F5FA8" stroke-width="1.2" stroke-dasharray="3,2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arw1F5FA8)"/>
+<line x1="59.25" y1="350.75" x2="90.75" y2="350.75" stroke="#B3261E" stroke-width="0.7" stroke-dasharray="2,1.5" stroke-linecap="butt"/>
+<polyline points="196.5,395 196.5,357.5" fill="none" stroke="#6B7280" stroke-width="1" stroke-dasharray="2,1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arw6B7280)"/>
+<polyline points="256.5,467 256.5,414.5" fill="none" stroke="#C2691A" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arwC2691A)"/>
+<polyline points="277.5,395.75 286.5,395.75 286.5,365 310.5,365 310.5,326 285,326 285,288.5 310.5,288.5 310.5,251 285,251 285,213.5 310.5,213.5 310.5,185" fill="none" stroke="#1E7A44" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arw1E7A44)"/>
+<polyline points="310.5,213.5 310.5,218.75 252.75,218.75" fill="none" stroke="#1F5FA8" stroke-width="1.2" stroke-dasharray="3,2" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="252.75,218.75 252.75,356" fill="none" stroke="#1F5FA8" stroke-width="1.2" stroke-dasharray="3,2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arw1F5FA8)"/>
+<polyline points="252.75,209.75 252.75,183.5" fill="none" stroke="#1F5FA8" stroke-width="1.2" stroke-dasharray="3,2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arw1F5FA8)"/>
+<line x1="239.25" y1="350.75" x2="270.75" y2="350.75" stroke="#B3261E" stroke-width="0.7" stroke-dasharray="2,1.5" stroke-linecap="butt"/>
+<circle cx="69" cy="395.75" r="5" fill="#1E7A44" stroke="#FFFFFF" stroke-width="0.8"/>
+<text x="69" y="397.15" fill="#FFFFFF" font-size="3.4" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">1-1</text>
+<circle cx="82.5" cy="395.75" r="5" fill="#1E7A44" stroke="#FFFFFF" stroke-width="0.8"/>
+<text x="82.5" y="397.15" fill="#FFFFFF" font-size="3.4" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">1-2</text>
+<circle cx="96" cy="395.75" r="5" fill="#1E7A44" stroke="#FFFFFF" stroke-width="0.8"/>
+<text x="96" y="397.15" fill="#FFFFFF" font-size="3.4" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">1-3</text>
+<circle cx="249" cy="395.75" r="5" fill="#1E7A44" stroke="#FFFFFF" stroke-width="0.8"/>
+<text x="249" y="397.15" fill="#FFFFFF" font-size="3.4" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">2-1</text>
+<circle cx="262.5" cy="395.75" r="5" fill="#1E7A44" stroke="#FFFFFF" stroke-width="0.8"/>
+<text x="262.5" y="397.15" fill="#FFFFFF" font-size="3.4" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">2-2</text>
+<circle cx="276" cy="395.75" r="5" fill="#1E7A44" stroke="#FFFFFF" stroke-width="0.8"/>
+<text x="276" y="397.15" fill="#FFFFFF" font-size="3.4" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">2-3</text>
+<circle cx="64.5" cy="480.5" r="5" fill="#C2410C" stroke="#FFFFFF" stroke-width="0.8"/>
+<text x="64.5" y="481.9" fill="#FFFFFF" font-size="3.4" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">ГР</text>
+<circle cx="310.5" cy="480.5" r="5" fill="#1F5FA8" stroke="#FFFFFF" stroke-width="0.8"/>
+<text x="310.5" y="481.9" fill="#FFFFFF" font-size="3.4" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">ПК</text>
+<polyline points="64.5,470 64.5,408.5" fill="none" stroke="#C2410C" stroke-width="0.8" stroke-dasharray="2,2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arwC2410C)"/>
+<polyline points="310.5,470 310.5,408.5" fill="none" stroke="#1F5FA8" stroke-width="0.8" stroke-dasharray="2,2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arw1F5FA8)"/>
+<rect x="91.5" y="353.75" width="30" height="6" rx="1" fill="#FFFFFF" opacity="0.9"/>
+<text x="106.5" y="358.25" fill="#C2410C" font-size="4" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">ВХОД № 1</text>
+<rect x="181.5" y="353.75" width="30" height="6" rx="1" fill="#FFFFFF" opacity="0.9"/>
+<text x="196.5" y="358.25" fill="#C2410C" font-size="4" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">ВХОД № 2</text>
+<rect x="271.5" y="353.75" width="30" height="6" rx="1" fill="#FFFFFF" opacity="0.9"/>
+<text x="286.5" y="358.25" fill="#C2410C" font-size="4" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">ВХОД № 3</text>
+<text x="165" y="369.5" fill="#6B7280" font-size="3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">ТАМБУР</text>
+<text x="162.75" y="275" fill="#1F5FA8" font-size="3.4" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle" transform="rotate(-90 162.75 275)">СКВОЗНОЙ КОРИДОР ДО ТЫЛЬНОЙ СТЕНЫ</text>
+<text x="207" y="182.75" fill="#1E7A44" font-size="3.6" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">«ЗМЕЙКА»</text>
+<circle cx="117.75" cy="344" r="2.9" fill="#1E7A44" stroke="#FFFFFF" stroke-width="0.5"/>
+<text x="117.75" y="345.064" fill="#FFFFFF" font-size="2.8" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">1</text>
+<circle cx="117.75" cy="306.5" r="2.9" fill="#1E7A44" stroke="#FFFFFF" stroke-width="0.5"/>
+<text x="117.75" y="307.564" fill="#FFFFFF" font-size="2.8" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">2</text>
+<circle cx="117.75" cy="269" r="2.9" fill="#1E7A44" stroke="#FFFFFF" stroke-width="0.5"/>
+<text x="117.75" y="270.064" fill="#FFFFFF" font-size="2.8" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">3</text>
+<circle cx="117.75" cy="231.5" r="2.9" fill="#1E7A44" stroke="#FFFFFF" stroke-width="0.5"/>
+<text x="117.75" y="232.564" fill="#FFFFFF" font-size="2.8" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">4</text>
+<circle cx="117.75" cy="201.5" r="2.9" fill="#1E7A44" stroke="#FFFFFF" stroke-width="0.5"/>
+<text x="117.75" y="202.564" fill="#FFFFFF" font-size="2.8" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">5</text>
+<text x="189" y="167" fill="#B3261E" font-size="3.4" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">ТЫЛЬНЫЕ ВЫХОДЫ — ПЕРЕКРЫТЬ НАБЛЮДЕНИЕМ И ОГНЁМ</text>
+<text x="78" y="481.7" fill="#C2410C" font-size="3.2" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">ГРАНАТОМЁТЧИК  (левый фланг)</text>
+<text x="297" y="481.7" fill="#1F5FA8" font-size="3.2" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="end">ПУЛЕМЁТЧИК  (правый фланг)</text>
+<text x="189" y="387.5" fill="#8A5A20" font-size="2.8" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="italic" text-anchor="middle">полоса огневого подавления фасада</text>
+<text x="58.5" y="416" fill="#6B7280" font-size="2.8" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="italic" text-anchor="start">накопление у стены, ниже подоконников</text>
+<polyline points="27,485 27,305" fill="none" stroke="#6B7280" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.55" marker-end="url(#arw6B7280)"/>
+<text x="22" y="395" fill="#6B7280" font-size="4" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle" transform="rotate(-90 22 395)">НАПРАВЛЕНИЕ ШТУРМА</text>
+<circle cx="322.5" cy="305" r="3" fill="#B3261E" stroke="#FFFFFF" stroke-width="0.5"/>
+<text x="322.5" y="306.064" fill="#FFFFFF" font-size="2.8" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">А</text>
+<circle cx="273" cy="218.75" r="3" fill="#B3261E" stroke="#FFFFFF" stroke-width="0.5"/>
+<text x="273" y="219.814" fill="#FFFFFF" font-size="2.8" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">Б</text>
+<circle cx="252.75" cy="176" r="3" fill="#B3261E" stroke="#FFFFFF" stroke-width="0.5"/>
+<text x="252.75" y="177.064" fill="#FFFFFF" font-size="2.8" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">В</text>
+<circle cx="332.2" cy="174.8" r="2.8" fill="#B3261E" stroke="#FFFFFF" stroke-width="0.5"/>
+<text x="332.2" y="175.788" fill="#FFFFFF" font-size="2.6" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">А</text>
+<text x="337" y="176" fill="#16202B" font-size="2.8" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Стены — брус 0,25 м. Пуля</text>
+<text x="337" y="179.9" fill="#16202B" font-size="2.8" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">прошивает их насквозь: стена</text>
+<text x="337" y="183.8" fill="#16202B" font-size="2.8" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">скрывает, но не укрывает.</text>
+<circle cx="332.2" cy="190.5" r="2.8" fill="#B3261E" stroke="#FFFFFF" stroke-width="0.5"/>
+<text x="332.2" y="191.488" fill="#FFFFFF" font-size="2.6" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">Б</text>
+<text x="337" y="191.7" fill="#16202B" font-size="2.8" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Сквозной проём коридор —</text>
+<text x="337" y="195.6" fill="#16202B" font-size="2.8" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">«змейка». Здесь выше всего</text>
+<text x="337" y="199.5" fill="#16202B" font-size="2.8" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">риск поражения своих: работать</text>
+<text x="337" y="203.4" fill="#16202B" font-size="2.8" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">по рубежам и докладам.</text>
+<circle cx="332.2" cy="210.1" r="2.8" fill="#B3261E" stroke="#FFFFFF" stroke-width="0.5"/>
+<text x="332.2" y="211.088" fill="#FFFFFF" font-size="2.6" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">В</text>
+<text x="337" y="211.3" fill="#16202B" font-size="2.8" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Тыльная дверь коридора.</text>
+<text x="337" y="215.2" fill="#16202B" font-size="2.8" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Берётся под ствол первой —</text>
+<text x="337" y="219.1" fill="#16202B" font-size="2.8" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">через неё уходят и подходят.</text>
+<rect x="20" y="496" width="15" height="2.4" fill="#16202B" stroke="#16202B" stroke-width="0.3"/>
+<rect x="35" y="496" width="15" height="2.4" fill="#FFFFFF" stroke="#16202B" stroke-width="0.3"/>
+<rect x="50" y="496" width="15" height="2.4" fill="#16202B" stroke="#16202B" stroke-width="0.3"/>
+<rect x="65" y="496" width="15" height="2.4" fill="#FFFFFF" stroke="#16202B" stroke-width="0.3"/>
+<rect x="80" y="496" width="15" height="2.4" fill="#16202B" stroke="#16202B" stroke-width="0.3"/>
+<text x="20" y="502.4" fill="#16202B" font-size="2.8" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="middle">0</text>
+<text x="95" y="502.4" fill="#16202B" font-size="2.8" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="middle">5 м</text>
+<text x="109" y="498.2" fill="#6B7280" font-size="3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="italic" text-anchor="start">Направление штурма — снизу вверх (фронтальный штурм). Схема одинакова для всех трёх входов.</text>
+<rect x="396" y="150" width="192" height="112" fill="#F2F0EA" stroke="#16202B" stroke-width="0.7"/>
+<rect x="396" y="150" width="192" height="9" fill="#16202B"/>
+<text x="399" y="156.39" fill="#FFFFFF" font-size="4.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">УСЛОВНЫЕ ЗНАКИ</text>
+<rect x="401" y="163.4" width="11" height="3.2" fill="#3A3227"/>
+<text x="417" y="166" fill="#16202B" font-size="3.2" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Стена деревянная (брус 0,25 м)</text>
+<rect x="401" y="170.4" width="11" height="3.2" fill="#FFFFFF" stroke="#C2410C" stroke-width="0.5"/>
+<line x1="401" y1="172" x2="412" y2="172" stroke="#C2410C" stroke-width="1.4" stroke-linecap="butt"/>
+<text x="417" y="173" fill="#16202B" font-size="3.2" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Дверной проём (вход)</text>
+<rect x="401" y="177.4" width="11" height="3.2" fill="#FFFFFF" stroke="#0E7490" stroke-width="0.5"/>
+<line x1="401" y1="179" x2="412" y2="179" stroke="#0E7490" stroke-width="0.5" stroke-linecap="butt"/>
+<text x="417" y="180" fill="#16202B" font-size="3.2" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Оконный проём</text>
+<rect x="401" y="184.4" width="11" height="3.2" fill="#6D28D9" opacity="0.5"/>
+<text x="417" y="187" fill="#16202B" font-size="3.2" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Сквозной проём коридор — «змейка»</text>
+<polyline points="401,194.4 406,194.4 406,191.6 412,191.6" fill="none" stroke="#1E7A44" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arw1E7A44)"/>
+<text x="417" y="194" fill="#16202B" font-size="3.2" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Ось движения по «змейке» (основная)</text>
+<polyline points="401,200 412,200" fill="none" stroke="#1F5FA8" stroke-width="1.2" stroke-dasharray="3,2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arw1F5FA8)"/>
+<text x="417" y="201" fill="#16202B" font-size="3.2" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Ось движения по коридору (после «змейки»)</text>
+<polyline points="401,207 412,207" fill="none" stroke="#C2691A" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arwC2691A)"/>
+<text x="417" y="208" fill="#16202B" font-size="3.2" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Выдвижение к входу</text>
+<circle cx="406" cy="214" r="3.4" fill="#1E7A44" stroke="#FFFFFF" stroke-width="0.6"/>
+<text x="417" y="215" fill="#16202B" font-size="3.2" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Стрелок штурмовой группы</text>
+<circle cx="406" cy="221" r="3.4" fill="#1F5FA8" stroke="#FFFFFF" stroke-width="0.6"/>
+<text x="417" y="222" fill="#16202B" font-size="3.2" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Пулемётчик</text>
+<circle cx="406" cy="228" r="3.4" fill="#C2410C" stroke="#FFFFFF" stroke-width="0.6"/>
+<text x="417" y="229" fill="#16202B" font-size="3.2" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Гранатомётчик</text>
+<polygon points="401,237.2 412,232.8 412,237.2" fill="#F6DDBC" stroke="#C2691A" stroke-width="0.4" stroke-dasharray="1.5,1.5"/>
+<text x="417" y="236" fill="#16202B" font-size="3.2" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Сектор огня средства поддержки</text>
+<circle cx="404.5" cy="242" r="3" fill="#C6CBD2"/>
+<circle cx="408.5" cy="241.2" r="2.4" fill="#C6CBD2"/>
+<text x="417" y="243" fill="#16202B" font-size="3.2" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Дымовая завеса</text>
+<line x1="401" y1="249" x2="412" y2="249" stroke="#B3261E" stroke-width="0.9" stroke-dasharray="4,2" stroke-linecap="butt"/>
+<text x="417" y="250" fill="#16202B" font-size="3.2" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Рубеж перехода в атаку</text>
+<line x1="401" y1="256" x2="412" y2="256" stroke="#B3261E" stroke-width="0.9" stroke-dasharray="2,1.5" stroke-linecap="butt"/>
+<text x="417" y="257" fill="#16202B" font-size="3.2" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Рубеж удержания / контроль коридора</text>
+<rect x="396" y="266" width="192" height="118" fill="#FFFFFF" stroke="#16202B" stroke-width="0.7"/>
+<rect x="396" y="266" width="192" height="9" fill="#16202B"/>
+<text x="399" y="272.39" fill="#FFFFFF" font-size="4.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">СЕКТОРЫ ОГНЯ И НАБЛЮДЕНИЯ</text>
+<text x="401" y="282.5" fill="#16202B" font-size="3.4" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">№ 1 головной</text>
+<text x="405" y="287.1" fill="#6B7280" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">фронт по ходу движения, дальний угол объёма, верх</text>
+<text x="401" y="293.1" fill="#16202B" font-size="3.4" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">№ 2 второй</text>
+<text x="405" y="297.7" fill="#6B7280" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">противоположный сектор, проёмы сбоку, страховка № 1</text>
+<text x="401" y="303.7" fill="#16202B" font-size="3.4" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">№ 3 замыкающий</text>
+<text x="405" y="308.3" fill="#6B7280" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">тыл, вход, горловина коридора, пройденные проёмы</text>
+<text x="401" y="314.3" fill="#16202B" font-size="3.4" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">Пулемётчик</text>
+<text x="405" y="318.9" fill="#6B7280" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">фасад и правое крыло; после «Внутри» — правый фланг и тыл</text>
+<text x="401" y="324.9" fill="#16202B" font-size="3.4" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">Гранатомётчик</text>
+<text x="405" y="329.5" fill="#6B7280" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">левое крыло и вскрытые огневые точки; затем левый фланг</text>
+<text x="401" y="335.5" fill="#16202B" font-size="3.4" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">Командир</text>
+<text x="405" y="340.1" fill="#6B7280" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">общее наблюдение, стык между ШГ-1 и ШГ-2, связь</text>
+<rect x="399" y="342.6" width="186" height="38.4" fill="#F2F0EA"/>
+<circle cx="402.5" cy="347.5" r="0.9" fill="#B3261E"/>
+<text x="406" y="348.6" fill="#16202B" font-size="3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Сектор перекрывает сектор соседа — «швов» между секторами быть не</text>
+<text x="406" y="352.8" fill="#16202B" font-size="3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">должно.</text>
+<circle cx="402.5" cy="357.1" r="0.9" fill="#B3261E"/>
+<text x="406" y="358.2" fill="#16202B" font-size="3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Правило передачи: «Держу правый» — «Принял правый». Без ответа сектор не</text>
+<text x="406" y="362.4" fill="#16202B" font-size="3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">передан.</text>
+<circle cx="402.5" cy="366.7" r="0.9" fill="#B3261E"/>
+<text x="406" y="367.8" fill="#16202B" font-size="3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">На стыке групп в глубине дома огонь ведётся только по опознанной цели.</text>
+<circle cx="402.5" cy="372.1" r="0.9" fill="#B3261E"/>
+<text x="406" y="373.2" fill="#16202B" font-size="3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Перезаряжается один — второй держит его сектор («МЕНЯЮ» — «ПРИКРЫВАЮ»).</text>
+<rect x="396" y="388" width="192" height="120" fill="#FFFFFF" stroke="#16202B" stroke-width="0.7"/>
+<rect x="396" y="388" width="192" height="9" fill="#16202B"/>
+<text x="399" y="394.39" fill="#FFFFFF" font-size="4.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">СПОСОБЫ ВХОДА В ПРОЁМ</text>
+<text x="401" y="405" fill="#16202B" font-size="4" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">«КРЮК»</text>
+<text x="422" y="405" fill="#6B7280" font-size="3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="italic" text-anchor="start">— дверь смещена к краю стены</text>
+<rect x="401" y="410" width="42" height="34" fill="#FFFFFF" stroke="#3A3227" stroke-width="1.2"/>
+<rect x="428.72" y="442.8" width="9.24" height="2.4" fill="#FFFFFF" stroke="#C2410C" stroke-width="0.5"/>
+<line x1="428.72" y1="444" x2="437.96" y2="444" stroke="#C2410C" stroke-width="1.2" stroke-linecap="butt"/>
+<polyline points="431.492,443 431.492,436 439,436 439,440" fill="none" stroke="#1E7A44" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arw1E7A44)"/>
+<polyline points="435.188,443 435.188,431 405,431 405,440" fill="none" stroke="#1F5FA8" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arw1F5FA8)"/>
+<text x="403" y="408.6" fill="#1E7A44" font-size="2.8" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">№ 1</text>
+<text x="441" y="408.6" fill="#1F5FA8" font-size="2.8" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="end">№ 2</text>
+<text x="448" y="413" fill="#16202B" font-size="3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Первый входит и разворачивается «крюком» вдоль</text>
+<text x="448" y="417.4" fill="#16202B" font-size="3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">стены со стороны проёма — в ближний к себе угол,</text>
+<text x="448" y="421.8" fill="#16202B" font-size="3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">просматривая его и уходя с линии проёма.</text>
+<text x="448" y="426.2" fill="#16202B" font-size="3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Второй — зеркально, в противоположную сторону.</text>
+<text x="448" y="430.6" fill="#16202B" font-size="3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Так работают все три входа этого дома.</text>
+<text x="401" y="453" fill="#16202B" font-size="4" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">«КРЕСТ»</text>
+<text x="422" y="453" fill="#6B7280" font-size="3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="italic" text-anchor="start">— дверь в середине стены</text>
+<rect x="401" y="458" width="42" height="34" fill="#FFFFFF" stroke="#3A3227" stroke-width="1.2"/>
+<rect x="417.38" y="490.8" width="9.24" height="2.4" fill="#FFFFFF" stroke="#C2410C" stroke-width="0.5"/>
+<line x1="417.38" y1="492" x2="426.62" y2="492" stroke="#C2410C" stroke-width="1.2" stroke-linecap="butt"/>
+<polyline points="420.152,491 439.5,462" fill="none" stroke="#1E7A44" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arw1E7A44)"/>
+<polyline points="423.848,491 404.5,462" fill="none" stroke="#1F5FA8" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arw1F5FA8)"/>
+<text x="403" y="456.6" fill="#1E7A44" font-size="2.8" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">№ 1</text>
+<text x="441" y="456.6" fill="#1F5FA8" font-size="2.8" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="end">№ 2</text>
+<text x="448" y="461" fill="#16202B" font-size="3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Первый входит по диагонали в дальний угол справа,</text>
+<text x="448" y="465.4" fill="#16202B" font-size="3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">второй — по диагонали в дальний угол слева.</text>
+<text x="448" y="469.8" fill="#16202B" font-size="3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Пути пересекаются в проёме — интервал строго</text>
+<text x="448" y="474.2" fill="#16202B" font-size="3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">«след в след», без задержки в свету.</text>
+<text x="448" y="478.6" fill="#16202B" font-size="3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Оружие поднимается только после прохода проёма.</text>
+<rect x="12" y="512" width="139.5" height="78" fill="#FFFFFF" stroke="#16202B" stroke-width="0.7"/>
+<rect x="12" y="512" width="139.5" height="11" fill="#16202B"/>
+<rect x="12" y="512" width="16" height="11" fill="#B3261E"/>
+<text x="20" y="519.4" fill="#FFFFFF" font-size="5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">Э-1</text>
+<text x="31" y="519.2" fill="#FFFFFF" font-size="3.6" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">ВЫДВИЖЕНИЕ И ИСХОДНОЕ ПОЛОЖЕНИЕ</text>
+<text x="15.5" y="530" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Скрытно, используя складки местности и укрытия,</text>
+<text x="15.5" y="535.6" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">выйти на рубеж перехода в атаку 30–50 м от фасада.</text>
+<text x="15.5" y="541.2" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Уточнить: этажность, окна и двери, подвал и чердак,</text>
+<text x="15.5" y="546.8" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">подходы, мёртвые зоны, где укрыты соседи справа и слева.</text>
+<text x="15.5" y="552.4" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Командир ставит задачу: кто, куда, по какому сигналу,</text>
+<text x="15.5" y="558" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">рубежи, секторы, порядок докладов, сигнал переноса огня.</text>
+<text x="15.5" y="563.6" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Проверить связь и назначить запасные сигналы.</text>
+<text x="15.5" y="569.2" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Оружие на предохранителе, магазины пристёгнуты,</text>
+<text x="15.5" y="574.8" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">снаряжение подогнано и не гремит при движении.</text>
+<text x="15.5" y="580.4" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Итог этапа: все знают свой вход, свою ось и свой сектор.</text>
+<rect x="157.5" y="512" width="139.5" height="78" fill="#FFFFFF" stroke="#16202B" stroke-width="0.7"/>
+<rect x="157.5" y="512" width="139.5" height="11" fill="#16202B"/>
+<rect x="157.5" y="512" width="16" height="11" fill="#B3261E"/>
+<text x="165.5" y="519.4" fill="#FFFFFF" font-size="5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">Э-2</text>
+<text x="176.5" y="519.2" fill="#FFFFFF" font-size="3.6" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">ОГНЕВОЕ ПОДАВЛЕНИЕ ФАСАДА</text>
+<text x="161" y="530" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">По команде «ОГОНЬ» пулемётчик (правый фланг) —</text>
+<text x="161" y="535.6" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">короткими очередями по окнам и центральному входу,</text>
+<text x="161" y="541.2" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">не даёт противнику вести прицельный огонь.</text>
+<text x="161" y="546.8" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Гранатомётчик (левый фланг) — по вскрытым огневым</text>
+<text x="161" y="552.4" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">точкам и для проделывания пролома в левом крыле.</text>
+<text x="161" y="558" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Огонь ведётся с фланга — так, чтобы траектории</text>
+<text x="161" y="563.6" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">не пересекали направления броска штурмовых групп.</text>
+<text x="161" y="569.2" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Средства поддержки работают с укрытия, позиция</text>
+<text x="161" y="574.8" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">выбирается с обзором всего фасада и обоих флангов.</text>
+<text x="161" y="580.4" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Задача этапа — прижать противника, а не разрушить дом.</text>
+<rect x="303" y="512" width="139.5" height="78" fill="#FFFFFF" stroke="#16202B" stroke-width="0.7"/>
+<rect x="303" y="512" width="139.5" height="11" fill="#16202B"/>
+<rect x="303" y="512" width="16" height="11" fill="#B3261E"/>
+<text x="311" y="519.4" fill="#FFFFFF" font-size="5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">Э-3</text>
+<text x="322" y="519.2" fill="#FFFFFF" font-size="3.6" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">ЗАДЫМЛЕНИЕ И БРОСОК К СТЕНЕ</text>
+<text x="306.5" y="530" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Дымовые шашки — с наветренной стороны, рубеж 15–20 м,</text>
+<text x="306.5" y="535.6" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">сплошная завеса по фронту всего фасада.</text>
+<text x="306.5" y="541.2" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Под прикрытием дыма и огня — бросок по кратчайшей</text>
+<text x="306.5" y="546.8" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">к «мёртвой зоне» под стеной, ниже линии подоконников.</text>
+<text x="306.5" y="552.4" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Дистанция между номерами в броске 5–8 м, не толпой.</text>
+<text x="306.5" y="558" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Накопление у входов № 1 и № 3 колонной по одному,</text>
+<text x="306.5" y="563.6" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">вплотную к стене, лицом к своему сектору.</text>
+<text x="306.5" y="569.2" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Осмотр проёма до входа: петли, порог, растяжка, свет.</text>
+<text x="306.5" y="574.8" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Головной докладывает «У ДВЕРИ» — это сигнал</text>
+<text x="306.5" y="580.4" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">на перенос огня поддержки с фасада на фланги.</text>
+<rect x="448.5" y="512" width="139.5" height="78" fill="#FFFFFF" stroke="#16202B" stroke-width="0.7"/>
+<rect x="448.5" y="512" width="139.5" height="11" fill="#16202B"/>
+<rect x="448.5" y="512" width="16" height="11" fill="#B3261E"/>
+<text x="456.5" y="519.4" fill="#FFFFFF" font-size="5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">Э-4</text>
+<text x="467.5" y="519.2" fill="#FFFFFF" font-size="3.6" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">ВХОД В СТРОЕНИЕ</text>
+<text x="452" y="530" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Только после подтверждённого переноса огня. Команда «ВХОД».</text>
+<text x="452" y="535.6" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Оба входа вскрываются одновременно, по единому сигналу.</text>
+<text x="452" y="541.2" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Проём — «точка взрыва»: в нём не задерживаться,</text>
+<text x="452" y="546.8" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">проходить сходу, не более 1 сек, не останавливаясь в свету.</text>
+<text x="452" y="552.4" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Дверь смещена к правому краю — вход способом «КРЮК»:</text>
+<text x="452" y="558" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">№ 1 — уходит вдоль стены в свой угол и берёт дальний,</text>
+<text x="452" y="563.6" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">№ 2 — сразу за ним, зеркально, в противоположную сторону,</text>
+<text x="452" y="569.2" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">№ 3 — остаётся на рубеже тамбура: держит горловину</text>
+<text x="452" y="574.8" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">коридора и вход, никто не проходит ему за спину.</text>
+<text x="452" y="580.4" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Доклад «ВНУТРИ» — поддержка переносит огонь на фланги.</text>
+<rect x="12" y="596" width="139.5" height="78" fill="#FFFFFF" stroke="#16202B" stroke-width="0.7"/>
+<rect x="12" y="596" width="139.5" height="11" fill="#16202B"/>
+<rect x="12" y="596" width="16" height="11" fill="#B3261E"/>
+<text x="20" y="603.4" fill="#FFFFFF" font-size="5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">Э-5</text>
+<text x="31" y="603.2" fill="#FFFFFF" font-size="3.6" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">ЗАЧИСТКА «ЗМЕЙКИ»</text>
+<text x="15.5" y="614" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Основная ось — вправо, последовательно по коленам 1–5.</text>
+<text x="15.5" y="619.6" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Каждый угол вскрывается «нарезанием пирога»: шаг вбок —</text>
+<text x="15.5" y="625.2" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">просмотр сектора — шаг вбок, без выхода корпусом за угол.</text>
+<text x="15.5" y="630.8" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Работают парой: № 1 вскрывает, № 2 страхует и держит</text>
+<text x="15.5" y="636.4" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">противоположное направление; поменялись — доложили.</text>
+<text x="15.5" y="642" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">После каждого колена — «КОЛЕНО N ЧИСТО», короткая пауза,</text>
+<text x="15.5" y="647.6" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">командир сверяет положение обеих групп по рубежам.</text>
+<text x="15.5" y="653.2" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Оружие всегда в сторону непросмотренного объёма.</text>
+<text x="15.5" y="658.8" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Не обгонять товарища и не пересекать его линию огня.</text>
+<text x="15.5" y="664.4" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Пройденное колено остаётся под наблюдением замыкающего.</text>
+<rect x="157.5" y="596" width="139.5" height="78" fill="#FFFFFF" stroke="#16202B" stroke-width="0.7"/>
+<rect x="157.5" y="596" width="139.5" height="11" fill="#16202B"/>
+<rect x="157.5" y="596" width="16" height="11" fill="#B3261E"/>
+<text x="165.5" y="603.4" fill="#FFFFFF" font-size="5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">Э-6</text>
+<text x="176.5" y="603.2" fill="#FFFFFF" font-size="3.6" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">КОРИДОР — ТОЛЬКО ПОСЛЕ «ЗМЕЙКИ»</text>
+<text x="161" y="614" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Сквозной коридор — «фатальный коридор»: простреливается</text>
+<text x="161" y="619.6" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">насквозь. Бежать по нему сразу с входа ЗАПРЕЩЕНО.</text>
+<text x="161" y="625.2" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">До зачистки «змейки» коридор удерживается наблюдением</text>
+<text x="161" y="630.8" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">и огнём № 3 с рубежа тамбура — он его не покидает.</text>
+<text x="161" y="636.4" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Из последнего колена группа выходит в коридор через</text>
+<text x="161" y="642" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">дальний сквозной проём и работает его с тыла, к входу.</text>
+<text x="161" y="647.6" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Перед выходом — доклад «ВЫХОЖУ В КОРИДОР», № 3 отвечает</text>
+<text x="161" y="653.2" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">«ПРИНЯЛ, ОРУЖИЕ ВВЕРХ» — исключаем встречный огонь.</text>
+<text x="161" y="658.8" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Тыльная дверь коридора берётся под контроль в первую</text>
+<text x="161" y="664.4" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">очередь: через неё противник уходит или получает помощь.</text>
+<rect x="303" y="596" width="139.5" height="78" fill="#FFFFFF" stroke="#16202B" stroke-width="0.7"/>
+<rect x="303" y="596" width="139.5" height="11" fill="#16202B"/>
+<rect x="303" y="596" width="16" height="11" fill="#B3261E"/>
+<text x="311" y="603.4" fill="#FFFFFF" font-size="5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">Э-7</text>
+<text x="322" y="603.2" fill="#FFFFFF" font-size="3.6" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">СОЕДИНЕНИЕ И ЗАКРЕПЛЕНИЕ</text>
+<text x="306.5" y="614" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Соединение ШГ-1 и ШГ-2 в глубине у тыльной стены.</text>
+<text x="306.5" y="619.6" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Опознание — только голосом и сигналом; огонь до опознания</text>
+<text x="306.5" y="625.2" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">не открывать: в соседнем объёме свои.</text>
+<text x="306.5" y="630.8" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Осмотр: подполье, чердачный люк, печь, ниши, мебель.</text>
+<text x="306.5" y="636.4" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Доклад «ЧИСТО» по каждому сектору, затем общий доклад.</text>
+<text x="306.5" y="642" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Закрепление: круговая оборона, секторы наблюдения и огня,</text>
+<text x="306.5" y="647.6" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">перекрытие тыльных выходов и окон, наблюдатель на подступы.</text>
+<text x="306.5" y="653.2" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Средства поддержки подтягиваются через вход № 2.</text>
+<text x="306.5" y="658.8" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Перезарядка по очереди, доклад о расходе боеприпасов.</text>
+<text x="306.5" y="664.4" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Раненые — в укрытие и на эвакуацию, доклад старшему.</text>
+<rect x="448.5" y="596" width="139.5" height="78" fill="#FFFFFF" stroke="#16202B" stroke-width="0.7"/>
+<rect x="448.5" y="596" width="139.5" height="11" fill="#16202B"/>
+<rect x="448.5" y="596" width="16" height="11" fill="#B3261E"/>
+<text x="456.5" y="603.4" fill="#FFFFFF" font-size="5" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="middle">Э-8</text>
+<text x="467.5" y="603.2" fill="#FFFFFF" font-size="3.6" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">УПРАВЛЕНИЕ И ДОКЛАДЫ</text>
+<text x="452" y="614" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Команды короткие, одним словом, дублируются жестом:</text>
+<text x="452" y="619.6" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">«ВХОД» — врываемся;   «ДЕРЖУ» — сектор занят;</text>
+<text x="452" y="625.2" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">«ЧИСТО» — объём осмотрен;   «МЕНЯЮ» — перезарядка,</text>
+<text x="452" y="630.8" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">напарник отвечает «ПРИКРЫВАЮ»;  «ДВИГАЮСЬ» — «ИДИ»;</text>
+<text x="452" y="636.4" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">«СВОИ» — опознание;  «ГРАНАТА» / «ДЫМ» — предупреждение;</text>
+<text x="452" y="642" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">«СТОП» — прекратить движение;  «ОТХОД» — выход из боя.</text>
+<text x="452" y="647.6" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Команда действительна, только если на неё ответили.</text>
+<text x="452" y="653.2" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Каждый рубеж — доклад командиру: где, что, расход, потери.</text>
+<text x="452" y="658.8" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Командир держит общую картину и стык между группами.</text>
+<text x="452" y="664.4" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Молчание в эфире = задача считается невыполненной.</text>
+<rect x="12" y="678" width="139.5" height="140" fill="#FFFFFF" stroke="#16202B" stroke-width="0.7"/>
+<rect x="12" y="678" width="139.5" height="10" fill="#16202B"/>
+<text x="15" y="685.1" fill="#FFFFFF" font-size="3.9" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">«ЗМЕЙКА»: РАБОТА ПО КОЛЕНАМ</text>
+<text x="15.5" y="697" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Колено = один непросмотренный угол. Порядок всегда один:</text>
+<text x="15.5" y="702.6" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">1. Остановка за 1–1,5 м до угла, вне зоны броска гранаты.</text>
+<text x="15.5" y="708.2" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">2. «Нарезание пирога»: приставными шагами по дуге,</text>
+<text x="15.5" y="713.8" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">     просматривая сектор по 10–15° за шаг.</text>
+<text x="15.5" y="719.4" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">3. Вскрытие — рывком; оружие идёт первым, по взгляду.</text>
+<text x="15.5" y="725" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">4. Доклад «КОЛЕНО ЧИСТО» и передача сектора соседу.</text>
+<text x="15.5" y="730.6" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Работа только парой: вскрывающий и страхующий.</text>
+<text x="15.5" y="736.2" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Второй никогда не смотрит туда же, куда и первый.</text>
+<text x="15.5" y="741.8" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Пройденное колено остаётся под наблюдением замыкающего:</text>
+<text x="15.5" y="747.4" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">проход, который никто не держит, — это открытый фланг.</text>
+<text x="15.5" y="753" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Стенки «змейки» ставят угол под 90° к движению — держать</text>
+<text x="15.5" y="758.6" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">дистанцию до стены, не «облизывать» её плечом.</text>
+<text x="15.5" y="764.2" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Темп задаёт не скорость шага, а скорость просмотра углов.</text>
+<rect x="157.5" y="678" width="139.5" height="140" fill="#FFFFFF" stroke="#16202B" stroke-width="0.7"/>
+<rect x="157.5" y="678" width="139.5" height="10" fill="#16202B"/>
+<text x="160.5" y="685.1" fill="#FFFFFF" font-size="3.9" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">КОРИДОР: ПОРЯДОК ДВИЖЕНИЯ</text>
+<text x="161" y="697" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Движение уступом вдоль стены, интервал 2–3 м, не в затылок.</text>
+<text x="161" y="702.6" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Головной — прямо до конца коридора; второй — противоположная</text>
+<text x="161" y="708.2" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">сторона и проёмы; замыкающий — тыл и пройденные проёмы.</text>
+<text x="161" y="713.8" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Каждый проём в стене — новый угол: перед ним остановка.</text>
+<text x="161" y="719.4" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Не пересекать открытый проём, пока его никто не держит.</text>
+<text x="161" y="725" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Открытый проём проходят по одному, по команде «ИДУ».</text>
+<text x="161" y="730.6" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Огонь вдоль коридора ведёт только один человек — тот,</text>
+<text x="161" y="736.2" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">у кого коридор в секторе; остальные смещаются к стене.</text>
+<text x="161" y="741.8" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Встречное движение двух групп по одному коридору запрещено:</text>
+<text x="161" y="747.4" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">это прямой путь к поражению своих.</text>
+<text x="161" y="753" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Освещение и тень: не выходить из тени в освещённый створ,</text>
+<text x="161" y="758.6" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">фонарь включать импульсом, а не постоянно.</text>
+<text x="161" y="764.2" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Дверь в торце коридора берут под ствол с самого начала.</text>
+<rect x="303" y="678" width="139.5" height="140" fill="#FFFFFF" stroke="#16202B" stroke-width="0.7"/>
+<rect x="303" y="678" width="139.5" height="10" fill="#16202B"/>
+<text x="306" y="685.1" fill="#FFFFFF" font-size="3.9" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">ПОЛЕ ВИДИМОСТИ И МЁРТВЫЕ ЗОНЫ</text>
+<text x="306.5" y="697" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Сектор наблюдения назначается каждому и не бросается,</text>
+<text x="306.5" y="702.6" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">пока не передан голосом другому номеру.</text>
+<text x="306.5" y="708.2" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Внутри тройки секторы перекрываются: 360° по горизонту,</text>
+<text x="306.5" y="713.8" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">обязателен контроль верха (чердачный люк) и низа (подполье).</text>
+<text x="306.5" y="719.4" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Наблюдение ведётся от ближнего к дальнему, затем обратно.</text>
+<text x="306.5" y="725" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Смотреть надо на объёмы, а не на предметы: угол, проём, тень.</text>
+<text x="306.5" y="730.6" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Типовые мёртвые зоны учебного дома:</text>
+<text x="306.5" y="736.2" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">— за дверным косяком и в четверти проёма;</text>
+<text x="306.5" y="741.8" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">— угол, «отрезанный» поперечной стенкой «змейки»;</text>
+<text x="306.5" y="747.4" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">— под подоконником, за печью, за мебелью и в нишах;</text>
+<text x="306.5" y="753" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">— участок коридора за сквозным проёмом;</text>
+<text x="306.5" y="758.6" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">— тыльный выход коридора — виден только с рубежа № 3.</text>
+<text x="306.5" y="764.2" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Каждая мёртвая зона либо просматривается, либо держится</text>
+<text x="306.5" y="769.8" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">стволом. Третьего состояния нет.</text>
+<rect x="448.5" y="678" width="139.5" height="140" fill="#FDF3F2" stroke="#B3261E" stroke-width="0.7"/>
+<rect x="448.5" y="678" width="139.5" height="10" fill="#B3261E"/>
+<text x="451.5" y="685.1" fill="#FFFFFF" font-size="3.9" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">МЕРЫ БЕЗОПАСНОСТИ НА ЗАНЯТИИ</text>
+<text x="452" y="697" fill="#B3261E" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">ДЕРЕВО — НЕ УКРЫТИЕ: брус и доска пробиваются пулей</text>
+<text x="452" y="702.6" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">насквозь. Стена скрывает от наблюдения, но не защищает —</text>
+<text x="452" y="708.2" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">за стеной могут быть свои. Огонь сквозь стены запрещён.</text>
+<text x="452" y="713.8" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Гранатомёт: опасная зона за казённым срезом — не менее 30 м</text>
+<text x="452" y="719.4" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">в секторе 90°; из помещения и вплотную к стене не применять;</text>
+<text x="452" y="725" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">выстрел взводится не сразу — стрельба в упор запрещена.</text>
+<text x="452" y="730.6" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Оружие — на предохранителе до команды, палец вне спускового</text>
+<text x="452" y="736.2" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">крючка; ствол только в сторону непросмотренного объёма</text>
+<text x="452" y="741.8" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">и вверх при движении рядом со своими.</text>
+<text x="452" y="747.4" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Дымы ставить с наветренной стороны, шашку не бросать</text>
+<text x="452" y="753" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">в направлении своих и в сухую траву.</text>
+<text x="452" y="758.6" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Границы объекта и «красная зона» обозначаются до занятия</text>
+<text x="452" y="764.2" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">и доводятся под роспись вместе с мерами безопасности.</text>
+<text x="452" y="769.8" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Занятие ведётся только по команде руководителя; при потере</text>
+<text x="452" y="775.4" fill="#16202B" font-size="3.3" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">контроля — «СТОП», разрядить оружие, доложить.</text>
+<rect x="12" y="822" width="576" height="66" fill="#F2F0EA" stroke="#16202B" stroke-width="0.7"/>
+<rect x="12" y="822" width="576" height="8.5" fill="#16202B"/>
+<text x="15" y="828.035" fill="#FFFFFF" font-size="4" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">ИСПОЛЬЗОВАННЫЕ РУКОВОДЯЩИЕ ДОКУМЕНТЫ</text>
+<text x="17" y="837" fill="#B3261E" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">1.</text>
+<text x="23" y="837" fill="#16202B" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Боевой устав Сухопутных войск, часть III (взвод, отделение, танк) — наступление в населённом пункте, действия штурмовой группы.</text>
+<text x="17" y="841.9" fill="#B3261E" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">2.</text>
+<text x="23" y="841.9" fill="#16202B" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Боевой устав Сухопутных войск, часть II (батальон, рота) — штурмовые отряды и штурмовые группы, бой в городе.</text>
+<text x="17" y="846.8" fill="#B3261E" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">3.</text>
+<text x="23" y="846.8" fill="#16202B" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Наставления по стрелковому делу (АК, ПКМ/РПК, РПГ-7, ГП-25) — меры безопасности, опасные зоны, порядок применения.</text>
+<text x="17" y="851.7" fill="#B3261E" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">4.</text>
+<text x="23" y="851.7" fill="#16202B" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Курс стрельб из стрелкового оружия, боевых машин и танков — требования безопасности при проведении стрельб и занятий.</text>
+<text x="17" y="856.6" fill="#B3261E" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="bold" font-style="normal" text-anchor="start">5.</text>
+<text x="23" y="856.6" fill="#16202B" font-size="3.1" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Инструкция по мерам безопасности при проведении занятий на войсковом стрельбище (полигоне) — обязательна к доведению перед занятием.</text>
+<text x="17" y="864" fill="#6B7280" font-size="2.9" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="italic" text-anchor="start">Схема учебная. Реальный порядок действий уточняется по обстановке, составу сил и решению командира. Перед занятием — доведение мер безопасности под роспись.</text>
+<line x1="432" y1="832" x2="432" y2="884" stroke="#E6E2D8" stroke-width="0.6" stroke-linecap="butt"/>
+<text x="438" y="838.5" fill="#16202B" font-size="3.2" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Подразделение: ______________________</text>
+<text x="438" y="846.5" fill="#16202B" font-size="3.2" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Руководитель занятия: ______________________</text>
+<text x="438" y="854.5" fill="#16202B" font-size="3.2" font-family="DejaVu Sans, Arial, Helvetica, sans-serif" font-weight="normal" font-style="normal" text-anchor="start">Дата: «____» ____________ 20____ г.</text>
+</svg>
